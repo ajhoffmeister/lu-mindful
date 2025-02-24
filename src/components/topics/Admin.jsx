@@ -14,7 +14,7 @@ function Admin() {
     const [catLang, setCatLang] = useState();
     const [catSpeaker, setCatSpeaker] = useState();
 
-    const API_KEY = 'AIzaSyBYfiRG0uN0pbgZhCBu-CjRaFpxd41ZO2M';
+    const API_KEY = '';
     
     const fetchVideoTitle = async (id) => {
         if (!id) return;
