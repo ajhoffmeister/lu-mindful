@@ -12,7 +12,7 @@ this is pretty much how to do it, first response
 after that, you'll need to add the connection to firebase
 https://firebase.google.com/docs/web/setup
 firebase is a google service that will help you do things like authorizing login and databasing
-you can also host small webapps for free, which is what I do most of the time
+you can also host small webapps for free, which is what I do most of the 
 
 once everything is set up, run:
     npm run dev
